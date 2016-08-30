@@ -1,8 +1,9 @@
-Dette er en fil i git-repoet.
+﻿Dette er en fil i git-repoet.
 Her kan du endre filer og deretter begå (commit) endringen.
 ==========================================================
 
 Skriv inn navnet ditt øverst i listen under:
+Ingrid Medalen
 Christoffer Tønnessen
 Stian Jensen
 Iver Jordal
